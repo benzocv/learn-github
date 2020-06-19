@@ -16,6 +16,8 @@ git commit -m 'meesage string' : To commit with message
 git push : Push to remote repository
 git pull : Pull latest from remote repository
 git clone : Clone repositoryinto a new directory 
+-> To clone complete repo
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 
 git add *.html : It will all .html files to the github
