@@ -44,3 +44,5 @@ git remote : To involve remote server to add files on github
 git remote add origin https://github.com/benzocv/github_learn.git
 git push -u origin master : To push files on remote server
 git push : To update every change to the github
+
+git push orign master : direclty popup for id password 
