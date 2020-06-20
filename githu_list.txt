@@ -1,6 +1,7 @@
 ====================================
 Learning
 l-node : node learning
+torrent_files : my torrent files here 
 
 
 ====================================
@@ -13,8 +14,8 @@ c-abc_admin_front : ABC admin front end code
 =====================================
 My designs
 m-design72 : Old company design 
-i_am_author : my books summary and details 
-
+robotic_waiter : My college project robotic waiter
+mann_texty : my prodct text based social media
 
 =====================================
 Old design 
