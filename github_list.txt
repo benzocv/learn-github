@@ -18,6 +18,7 @@ p-yasar_cv_project : Cv design of yasar
 My designs
 m-design72 : Old company design 
 robotic_waiter : My college project robotic waiter
+techyfy : Digital instuments expose with blog and comparison
 
 =====================================
 Old design 
