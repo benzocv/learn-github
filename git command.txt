@@ -18,6 +18,8 @@ git pull : Pull latest from remote repository
 git clone : Clone repositoryinto a new directory 
 -> To clone complete repo
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+-> To update cloned repo
+git pull origin master
 
 
 git add *.html : It will all .html files to the github
